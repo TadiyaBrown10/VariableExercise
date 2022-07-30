@@ -1,0 +1,14 @@
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.deps.json
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.runtimeconfig.json
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.runtimeconfig.dev.json
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.dll
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/bin/Debug/netcoreapp3.1/VariableExercise.pdb
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.csproj.AssemblyReference.cache
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.AssemblyInfoInputs.cache
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.AssemblyInfo.cs
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.csproj.CoreCompileInputs.cache
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.dll
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.pdb
+/Users/tadiyabrown/repos/VariableExercise/VariableExercise/obj/Debug/netcoreapp3.1/VariableExercise.genruntimeconfig.cache
